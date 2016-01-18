@@ -3,6 +3,8 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+/* MAIN HEADER IMAGE */
+
 .main-header {
 	background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.6)), url('http://i.imgur.com/990cbi8.jpg') no-repeat center;
 	height: 500px;
@@ -23,6 +25,8 @@ h1 {
 	text-shadow: 1px 1px #3D3D3D;
 	font-weight: bold;
 }
+
+/* NAV BAR */
 
 nav {
 	 background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.95));
@@ -46,4 +50,35 @@ nav a {
 nav a:hover {
 	font-weight: normal;
 }
+
+/* MAIN PAGE CONTENTS */
+
+.master-container {
+	margin: 0 auto;
+	width: 75%;
+}
+
+.main-page-img {
+	float: left;
+	display: inline-block;
+}
+.main-page-img:hover {
+	background-color: rgba(236, 201, 180, 0.4);
+}
+
+.main-page-img img {
+ 	width: 35%;
+	padding-left: 5%;
+	margin: 5% 0 1% 10%;
+}
+.main-page-text {
+	font-family: 'Petit Formal Script', cursive;
+	float: right;
+	margin: -20% 10% 0 -10%;
+	width: 30%;
+	font-size: 3em;
+	display: inline-block;
+}
+
+
 
