@@ -9,8 +9,8 @@ body {
 
 >>>>>>> master
 .main-header {
-	background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.6)), url('http://i.imgur.com/990cbi8.jpg') no-repeat center;
-	height: 500px;
+	background: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.6)), url('http://i.imgur.com/rFb0kbC.jpg') no-repeat center;
+	height: 300px;
 	opacity: 0.8;
 	text-align: center;
 }
@@ -20,7 +20,7 @@ body {
 	color: #fff;
 	text-align: center;
 	position: absolute;
-	top: 200px;
+	top: 50px;
 	left: 20%;
 	line-height: 1.4em;
 	font-size: 3.8em;
@@ -108,5 +108,39 @@ nav a:hover {
 	display: inline-block;
 }
 
+/* BODY FOR ABOUT, CONTACT */
+
+h2 {
+	font-weight: normal;
+	margin: 5% 0;
+}
+
+.body-container {
+	margin: 2% auto; 
+	width: 60%;
+	font-weight: lighter;
+	line-height: 1.75em;
+}
+
+.employee-name {
+	font-size: 1.5em;
+	font-weight: lighter;
+	text-align: center;
+}
+
+.headshot {
+	width: 400px;
+}
+
+.contact-info {
+	margin: 5% 0;
+	text-align: center;
+}
+
+#contact-img {
+	opacity: 0.9;
+	width: 100%;
+	box-shadow: 12px 20px 60px 0px rgba(0, 0, 0, 0.7);
+}
 
 
