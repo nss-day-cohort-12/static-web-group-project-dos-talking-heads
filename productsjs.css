@@ -1,0 +1,21 @@
+.productCard {
+  width: 30%;
+  display: inline-block;
+  border: solid black 2px;
+  border-radius: 5px;
+  margin: 50px 1%;
+  height: 500px;
+}
+
+.pic0 {
+  text-align: center;
+  margin: 10px 0;
+  border: solid black 1px;
+  border-radius: 10px;
+  padding: 0;
+}
+
+.paperImages {
+  text-align: center;
+  margin: 10px 0;
+}
