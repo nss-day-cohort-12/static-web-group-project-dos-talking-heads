@@ -52,18 +52,24 @@ nav a:hover {
 
 /* PRODUCTS */
 
-
 .productCard {
-	display: inline-block;
-	width: 30%;
-	margin: 10px 1%;
-	border: solid red 2px;
+  width: 30%;
+  display: inline-block;
+  border: solid black 2px;
+  border-radius: 5px;
+  margin: 50px 1%;
+  height: 500px;
+  vertical-align: middle;
 }
 
-
-.totalBox {
-	border: solid black 2px;
+.pic0 {
+	display: block;
+	margin: 10px auto;
+  border: solid black 1px;
+  border-radius: 10px;
+  padding: 0;
 }
+
 
 /* MAIN PAGE CONTENTS */
 
