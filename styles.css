@@ -60,6 +60,8 @@ nav a:hover {
   margin: 50px 1%;
   height: 500px;
   vertical-align: middle;
+  padding: 0 1%;
+  box-sizing: border-box;
 }
 
 .pic0 {
@@ -70,6 +72,25 @@ nav a:hover {
   padding: 0;
 }
 
+.finalTotal {
+	padding-left: 2%;
+	border: solid black 2px;
+  border-radius: 5px;
+  width: 20%;
+  height: 100px;
+  margin: 0 auto;
+}
+
+.buttonClass {
+		text-align: center;
+		margin: 2% 0 ;
+}
+
+button {
+	display: inline-block;
+	width: 200px;
+	height: 50px;
+}
 
 /* MAIN PAGE CONTENTS */
 
