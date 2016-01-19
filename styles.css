@@ -83,5 +83,21 @@ nav a:hover {
 	display: inline-block;
 }
 
+footer {
+	clear: both;
+	float: left;
+	display: inline-block;
+	width: 100%;
+}
 
+/*.footImg {
+max-width: 50px;
+float: right;
+}
+*/
+/*.footah {
+	display: inline;
+	clear: all;
+}
+*/
 
