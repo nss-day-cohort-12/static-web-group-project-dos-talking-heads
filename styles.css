@@ -55,7 +55,7 @@ nav a:hover {
 	font-weight: normal;
 }
 
-<<<<<<< HEAD
+
 
 .productCard {
 	display: inline-block;
@@ -75,7 +75,7 @@ nav a:hover {
 
 
 
-=======
+
 /* MAIN PAGE CONTENTS */
 
 .master-container {
@@ -107,6 +107,13 @@ nav a:hover {
 	font-size: 3em;
 	display: inline-block;
 }
+
+
+footer {
+	clear: both;
+	float: left;
+	display: inline-block;
+	width: 100%;
 
 /* BODY FOR ABOUT, CONTACT */
 
@@ -141,6 +148,17 @@ h2 {
 	opacity: 0.9;
 	width: 100%;
 	box-shadow: 12px 20px 60px 0px rgba(0, 0, 0, 0.7);
+
+}
+
+.footImg {
+max-width: 50px;
+float: right;
+}
+
+.footah {
+	display: inline;
+	clear: all;
 }
 
 
