@@ -88,15 +88,17 @@ function determineConverter (clickEvent) {
   
   //-- DEFINE VARS --//
   //-- PRODUCT0 --//
+
   var reamInput0 = document.getElementById("reamInput0").value;
   console.log("input", reamInput0);
   reamInput0Price = myProducts[0].price * reamInput0;
   console.log("price:", reamInput0Price);
-
+  
   var reamInput1 = document.getElementById("reamInput1").value;
   console.log("input", reamInput1);
   reamInput1Price = myProducts[1].price * reamInput1;
   console.log("price:", reamInput1Price);
+
 
   var reamInput2 = document.getElementById("reamInput2").value;
   console.log("input", reamInput2);
