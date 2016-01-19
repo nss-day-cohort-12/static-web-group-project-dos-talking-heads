@@ -54,7 +54,7 @@ nav a:hover {
 /* MAIN PAGE CONTENTS */
 
 .master-container {
-	margin: 0 auto;
+	margin: 2% auto;
 	width: 75%;
 }
 
@@ -62,15 +62,18 @@ nav a:hover {
 	float: left;
 	display: inline-block;
 }
+
 .main-page-img:hover {
-	background-color: rgba(236, 201, 180, 0.4);
+	background-color: rgba(236, 201, 180, 0.2);
 }
 
 .main-page-img img {
  	width: 35%;
+ 	height: 220px;
 	padding-left: 5%;
-	margin: 5% 0 1% 10%;
+	margin: 5% 0 1% 0;
 }
+
 .main-page-text {
 	font-family: 'Petit Formal Script', cursive;
 	float: right;
