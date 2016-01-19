@@ -10,49 +10,49 @@ var product0 = {
 }
 var product1 = {
   image: "<img class='pic0' src='images/paperimg1.jpg' alt='' width='189px' height='200px'>",
-  name: "White Paper",
+  name: "Caucasian Paper",
   description: "And so Gomez, who on paper —an ex-Navy SEAL turned venture capitalist—looks like the perfect Republican, jumped in.",
   price: 2.00,
   URL: "www.example1.html"
 }
 var product2 = {
   image: "<img class='pic0' src='images/paperimg2.jpg' alt='' width='189px' height='200px'>",
-  name: "White Paper",
+  name: "Multi-Color Paper",
   description: "A substance made from cellulose fibres derived from rags, wood, etc, often with other additives, and formed into flat thin sheets suitable for writing on.",
   price: 1.00,
   URL: "www.example2.html"
 }
 var product3 = {
   image: "<img class='pic0' src='images/paperimg3.jpg' alt='' width='189px' height='200px'>",
-  name: "White Paper",
+  name: "Stack of Paper",
   description: "Meaning 'paper money' attested from 1722. As shortened form of newspaper, first attested 1640s. In plural, 'collection of papers to establish one's identity, credentials, etc.",
   price: 42.00,
   URL: "www.example3.html"
 }
 var product4 = {
   image: "<img class='pic0' src='images/paperimg4.jpg' alt='' width='189px' height='200px'>",
-  name: "White Paper",
+  name: "Toilet Paper",
   description: "Material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material.",
   price: 225.00,
   URL: "www.example4.html"
 }
 var product5 = {
   image: "<img class='pic0' src='images/paperimg5.jpeg' alt='' width='189px' height='200px'>",
-  name: "White Paper",
+  name: "Poop Paper",
   description: "An essay or thesis, especially one read at an academic lecture or seminar or published in an academic journal.",
   price: 1.00,
   URL: "www.example5.html"
 }
 var product6 = {
   image: "<img class='pic0' src='images/paperimg6.jpeg' alt='' width='189px' height='200px'>",
-  name: "White Paper",
+  name: "More-Multi Paper",
   description: "A substance made from wood pulp, rags, straw, or other fibrous material, usually in thin sheets, used to bear writing or printing, for wrapping things, etc.",
   price: 12.00,
   URL: "www.example6.html"
 }
 var product7 = {
   image: "<img class='pic0' src='images/paperimg7.jpg' alt='' width='189px' height='200px'>",
-  name: "White Paper",
+  name: "Recycled Paper",
   description: "The Dictionary of American Slang, Fourth Edition by Barbara Ann Kipfer, PhD. and Robert L. Chapman, Ph.D. Copyright (C) 2007 by HarperCollins Publishers.",
   price: 15.00,
   URL: "www.example7.html"
