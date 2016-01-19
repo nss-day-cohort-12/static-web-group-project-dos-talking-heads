@@ -3,8 +3,10 @@
   display: inline-block;
   border: solid black 2px;
   border-radius: 5px;
-  margin: 50px 1%;
+  margin: 50px 1% 0 1%;
   height: 500px;
+  min-width: 200px;
+  vertical-align: middle;
 }
 
 .pic0 {
@@ -18,4 +20,4 @@
 .paperImages {
   text-align: center;
   margin: 10px 0;
-}
+} 
